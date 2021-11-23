@@ -1,0 +1,40 @@
+:molybdenum.libera.chat NOTICE * :*** Checking Ident
+:molybdenum.libera.chat NOTICE * :*** Looking up your hostname...
+:molybdenum.libera.chat NOTICE * :*** Couldn't look up your hostname
+:molybdenum.libera.chat NOTICE * :*** No Ident response
+:molybdenum.libera.chat 001 kotto_bot :Welcome to the Libera.Chat Internet Relay Chat Network kotto_bot
+:molybdenum.libera.chat 002 kotto_bot :Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6667], running version solanum-1.0-dev
+:molybdenum.libera.chat 003 kotto_bot :This server was created Tue Aug 31 2021 at 04:30:18 UTC
+:molybdenum.libera.chat 004 kotto_bot molybdenum.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+:molybdenum.libera.chat 005 kotto_bot WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CTU CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+:molybdenum.libera.chat 005 kotto_bot CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+:molybdenum.libera.chat 005 kotto_bot TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+:molybdenum.libera.chat 251 kotto_bot :There are 65 users and 46675 invisible on 26 servers
+:molybdenum.libera.chat 252 kotto_bot 40 :IRC Operators online
+:molybdenum.libera.chat 253 kotto_bot 7 :unknown connection(s)
+:molybdenum.libera.chat 254 kotto_bot 20578 :channels formed
+:molybdenum.libera.chat 255 kotto_bot :I have 1642 clients and 1 servers
+:molybdenum.libera.chat 265 kotto_bot 1642 1649 :Current local users 1642, max 1649
+:molybdenum.libera.chat 266 kotto_bot 46740 47764 :Current global users 46740, max 47764
+:molybdenum.libera.chat 250 kotto_bot :Highest connection count: 1650 (1649 clients) (5201 connections received)
+:molybdenum.libera.chat 375 kotto_bot :- molybdenum.libera.chat Message of the Day - 
+:molybdenum.libera.chat 372 kotto_bot :- Welcome to Libera Chat, the IRC network for
+:molybdenum.libera.chat 372 kotto_bot :- free & open-source software and peer directed projects.
+:molybdenum.libera.chat 372 kotto_bot :-  
+:molybdenum.libera.chat 372 kotto_bot :- Use of Libera Chat is governed by our network policies.
+:molybdenum.libera.chat 372 kotto_bot :-  
+:molybdenum.libera.chat 372 kotto_bot :- Please visit us in #libera for questions and support.
+:molybdenum.libera.chat 372 kotto_bot :-  
+:molybdenum.libera.chat 372 kotto_bot :- Website and documentation:  https://libera.chat
+:molybdenum.libera.chat 372 kotto_bot :- Webchat:                    https://web.libera.chat
+:molybdenum.libera.chat 372 kotto_bot :- Network policies:           https://libera.chat/policies
+:molybdenum.libera.chat 372 kotto_bot :- Email:                      support@libera.chat
+:molybdenum.libera.chat 376 kotto_bot :End of /MOTD command.
+:kotto_bot MODE kotto_bot :+i
+:kotto_bot!~kotto2@2001:8a0:ee37:f500:2ad2:44ff:fe68:9566 JOIN #kotto
+:molybdenum.libera.chat 353 kotto_bot @ #kotto :kotto_bot @kotto
+:molybdenum.libera.chat 366 kotto_bot #kotto :End of /NAMES list.
+:kotto!~kotto@2001:8a0:ee37:f500:2ad2:44ff:fe68:9566 PRIVMSG #kotto :hello
+:kotto!~kotto@2001:8a0:ee37:f500:2ad2:44ff:fe68:9566 PRIVMSG #kotto :TEST
+:kotto!~kotto@2001:8a0:ee37:f500:2ad2:44ff:fe68:9566 PRIVMSG #kotto :aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+:kotto!~kotto@2001:8a0:ee37:f500:2ad2:44ff:fe68:9566 PRIVMSG kotto_bot :hey, this is just you and me

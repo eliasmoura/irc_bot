@@ -1,0 +1,4 @@
+:molybdenum.libera.chat NOTICE * :*** Checking Ident
+:molybdenum.libera.chat NOTICE * :*** Looking up your hostname...
+:molybdenum.libera.chat NOTICE * :*** Couldn't look up your hostname
+:molybdenum.libera.chat NOTICE * :*** No Ident response
